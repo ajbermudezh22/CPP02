@@ -10,7 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-NAME = Now_we_are_talking
+NAME = fixed
 SRCS = main.cpp Fixed.cpp
 OBJS = $(SRCS:.cpp=.o)
 CC = c++

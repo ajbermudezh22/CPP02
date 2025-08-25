@@ -12,7 +12,7 @@
 
 #include "Fixed.hpp"
 
-const int Fixed::_fract8bits = 0;
+const int Fixed::_fract8bits = 8;
 
 Fixed::Fixed() :_raw(0)
 {

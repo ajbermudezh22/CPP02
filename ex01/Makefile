@@ -10,7 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-NAME = More_useful_fixed_point_number_class
+NAME = fixed
 SRCS = main.cpp Fixed.cpp
 OBJS = $(SRCS:.cpp=.o)
 CC = c++

@@ -10,7 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-NAME = My_first_class_in_OCF
+NAME = fixed
 SRCS = main.cpp Fixed.cpp
 OBJS = $(SRCS:.cpp=.o)
 CC = c++
